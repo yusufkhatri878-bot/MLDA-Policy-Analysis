@@ -1,0 +1,16 @@
+# Keep raw datasets local
+data/*.dta
+data/*.csv
+
+# Local logs and saved estimates
+outputs/logs/
+outputs/tables/*.ster
+
+# Additional diagnostic panels
+outputs/figures/alcohol_bin_width_comparison.pdf
+outputs/figures/alcohol_age_window_comparison.pdf
+outputs/figures/alcohol_axis_comparison.pdf
+
+# Mac and Stata temporary files
+.DS_Store
+*.stswp
