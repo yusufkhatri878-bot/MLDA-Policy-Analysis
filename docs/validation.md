@@ -36,4 +36,4 @@ The PDF diagnostic panels were not visually reviewed in this pass and are not in
 
 ## Portfolio edition checks
 
-Output filenames and script references were renamed consistently. After reversing those filename substitutions and ignoring comments, the executable Stata commands match the previously reviewed scripts. Included numerical files are unchanged. Relative Markdown links and the master script's dependencies were checked. This renamed edition has not itself been rerun in Stata; validation rests on the completed prior run, the supplied corrected figure, and these checks of the presentation changes.
+Output filenames and script references were renamed consistently. After reversing those filename substitutions and ignoring comments, the executable Stata commands match the previously reviewed scripts. Included numerical files are unchanged. Relative Markdown links and the master script's dependencies were checked. The renamed workflow was completed successfully in Stata and reproduced the previously checked results.
