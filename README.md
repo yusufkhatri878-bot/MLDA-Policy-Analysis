@@ -60,6 +60,7 @@ The total-arrest IV ratio is **9.05 additional arrests per 10,000 per one-percen
 - [Linear and quadratic model comparison](outputs/figures/alcohol_model_comparison.png)
 - [DUI and liquor-law arrest profiles](outputs/figures/dui_and_liquor_law_arrests.png)
 - [IV estimates and standard errors](outputs/tables/drinking_arrests_iv.csv)
+- [Excel analysis workbook](outputs/tables/MLDA%20Results.xlsx): Formula-based IV estimates, delta-method standard errors, and 95% confidence intervals, with a linked summary and chart.
 
 ## Run the project
 
